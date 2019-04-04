@@ -249,10 +249,22 @@ body.fixed .header-fixed .header-limiter nav {
     background: #ddd;
 }
 
-.iframe{
-    margin-left: 50px;
-    padding-left: 50px;
+.iframe-container{
+    position: relative;
+    width:100%;
+    padding-bottom:56.25%;
+    height:0;
 }
+
+.iframe-container iframe{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
+
+
 
 /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
 @media (min-width: 700px) {
@@ -324,13 +336,15 @@ body.fixed .header-fixed .header-limiter nav {
 }
 
 table {
-    font-family: "monoton", sans-serif;
+    font-family: "Roboto", sans-serif;
     border-collapse: collapse;
-    width: 100%;
+    width: 95%;
     margin-top: 20px;
     margin-bottom: 30px;
     margin-left: 20px;
     margin-right: 20px;
+    position: center
+    
 }
 
 td, th {
@@ -348,7 +362,7 @@ tr:nth-child(even) {
 /*----------------------------------------------Contact Form----------*/
 
 .contact-heading{
-    font-family: "roboto" ,sans-serif;
+    font-family: "" ,sans-serif;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 10px;
