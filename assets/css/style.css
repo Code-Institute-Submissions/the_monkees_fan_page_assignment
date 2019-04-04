@@ -139,3 +139,11 @@ body.fixed .header-fixed .header-limiter nav {
 	 these styles.
  */
  
+ 
+ /*----------------------------------------------Timeline--------*/
+ 
+ .timeline-item{
+     padding: 4em 2em 0em 2em;
+     position: relative;
+     border-left: 1px solid;
+ }
