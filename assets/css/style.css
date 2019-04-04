@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|exo: 100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Monoton: 100,200,300,400,500,600,700');
 
 /*----------------------------------------------Header/Navbar--------------*/
 
@@ -32,6 +32,9 @@
 /* Logo */
 
 .header-fixed .header-limiter h1 {
+    font-family: "Monoton", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
 	float: left;
 	line-height: 40px;
 	margin: 0;
@@ -44,7 +47,7 @@
 /* The navigation links */
 
 .header-fixed .header-limiter a {
-	font-family: "Arial", sans-serif;
+	font-family: "Monoton", sans-serif;
 	color: #ffffff;
 	text-decoration: none;
 }
@@ -66,13 +69,6 @@
 .header-fixed .header-limiter nav a:hover{
 	opacity: 1;
 }
-
-.header-fixed .header-limiter nav a.selected {
-	color: #608bd2;
-	pointer-events: none;
-	opacity: 1;
-}
-
 
 /* Fixed version of the header */
 
