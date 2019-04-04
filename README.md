@@ -22,10 +22,6 @@ Credits:
 https://startbootstrap.com/snippets/navbar-logo/ (navbar HTML + CSS)
 
 
-
-font-family: "Monoton", sans-serif;
-    font-weight: 700;
-    font-size: 40px;
     
     
 .header-fixed .header-limiter nav a.different {
