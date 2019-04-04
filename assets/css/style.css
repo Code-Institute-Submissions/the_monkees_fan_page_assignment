@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Monoton: 100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Six Caps:100,200,300,400,500,600,700|Monoton: 100,200,300,400,500,600,700');
 
 /*----------------------------------------------Header/Navbar--------------*/
 
@@ -179,30 +179,104 @@ body.fixed .header-fixed .header-limiter nav {
     margin-bottom: 30px;
 }
 
-@media
-
 /*--------------------------------------------------------About Us--------*/
 
-.img-responsive{
-	width: 100%;
+.responsive{    
+    width: 100%;
     height: auto;
     margin-top:10px;
 }
 
 .section-heading{
-	font-family: "monoton", sans-serif;
+	font-family: "Six Caps", sans-serif;
+	font-size: 50px;
+	color: #0000FF;
 }
 
 .about-us-heading{
-	font-family: "monoton", sans-serif;
+	font-family: "Six Caps", sans-serif;
+	font-size: 26px;
+	color: #008000;
 }
 
 
 .about-us-icon{
     font-size: 26px;
-    color: C500FF;
     margin-top: "15px";
 }
+
+
+/*------------------------------------------------------Music-Page----------*/
+
+
+.row-music {  
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+    flex: 30%;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+
+/* Main column */
+.main {
+    flex: 70%;
+    background-color: white;
+    padding: 20px;
+}
+
+.fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+}
+
+/* Footer */
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+}
+
+.iframe{
+    margin-left: 50px;
+    padding-left: 50px;
+}
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media (max-width: 800px) {
+    .row, .navbar {   
+        flex-direction: column;
+    }
+}
+
+.image-items{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-left: 40px;
+}
+
+.audio{
+    padding-top: 10px;
+}
+
+.audio-items{
+    vertical-align: middle;
+    margin-left: 50px;
+}
+
+.list-group{
+    background-color: hidden;
+}
+
+.album-art{
+    margin-left: 80px;
+}
+
 
 
 
