@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|exo: 100,200,300,400,500,600,700');
 
 /*----------------------------------------------Header/Navbar--------------*/
 
@@ -147,3 +147,34 @@ body.fixed .header-fixed .header-limiter nav {
      position: relative;
      border-left: 1px solid;
  }
+ 
+ .timeline-item p{
+    padding:0;
+    margin:0;
+}
+
+.timeline-item::before{
+    content: attr(dates);
+    position: absolute;
+    left: 2.5em;
+    top: 3em;
+    display: block;
+    font-family: "exo", sans-serif;
+    font-weight: 500;
+    font-size: .8em;
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item::after{
+    width: 12px;
+    height: 12px;
+    display: block;
+    top: 2.4em;
+    position: absolute;
+    left: -6px;
+    border-radius: 12px;
+    content: '';
+    background:black;
+    
+}
