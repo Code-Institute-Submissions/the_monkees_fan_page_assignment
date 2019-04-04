@@ -208,7 +208,6 @@ body.fixed .header-fixed .header-limiter nav {
 
 /*------------------------------------------------------Music-Page----------*/
 
-
 .row-music {  
     display: flex;
     flex-wrap: wrap;
@@ -248,7 +247,7 @@ body.fixed .header-fixed .header-limiter nav {
 }
 
 /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
-@media (max-width: 800px) {
+@media (min-width: 700px) {
     .row, .navbar {   
         flex-direction: column;
     }
@@ -278,9 +277,40 @@ body.fixed .header-fixed .header-limiter nav {
 }
 
 
+.apple-header{
+    font-family: "Six Caps", sans-serif;
+    font-size: 60px;
+}
+
+.apple-sub{
+    font-family: "Six Caps", sans-serif;
+    font-size: 30px;
+}
 
 
-/*---------------------------------------------------------Footer------------*/
+.youtube-header{
+    font-family: "Six Caps", sans-serif;
+    font-size: 60px;
+}
+
+.youtube-sub{
+    font-family: "Six Caps", sans-serif;
+    font-size: 30px;
+}
+
+
+.mp3-heading{
+    font-family: "Six Caps", sans-serif;
+    font-size: 30px;
+}
+
+.mp3-header{
+    font-family: "Six Caps", sans-serif;
+    font-size: 60px;
+}
+
+
+/*--------------------------------------------------Footer------------*/
 
 footer{
     background-color: #800000;
