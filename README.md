@@ -16,3 +16,20 @@ http://www.youtube.com/user/c9ide.
 
 Happy coding!
 The Cloud9 IDE team
+
+Credits:
+
+https://startbootstrap.com/snippets/navbar-logo/ (navbar HTML + CSS)
+
+
+
+font-family: "Monoton", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    
+    
+.header-fixed .header-limiter nav a.different {
+	color: #FFC300;
+	pointer-events: none;
+	opacity: 1;
+}
