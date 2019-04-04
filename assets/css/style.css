@@ -34,7 +34,7 @@
 .header-fixed .header-limiter h1 {
     font-family: "Monoton", sans-serif;
     font-weight: 700;
-    font-size: 40px;
+    font-size: 30px;
 	float: left;
 	line-height: 40px;
 	margin: 0;
@@ -208,6 +208,14 @@ body.fixed .header-fixed .header-limiter nav {
 
 /*------------------------------------------------------Music-Page----------*/
 
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+}
+
+
 .row-music {  
     display: flex;
     flex-wrap: wrap;
@@ -307,6 +315,39 @@ body.fixed .header-fixed .header-limiter nav {
     font-family: "Six Caps", sans-serif;
     font-size: 60px;
 }
+
+
+/*----------------------------------------------Contact Form----------*/
+
+.contact-heading{
+    font-family: "roboto" ,sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    
+
+}
+
+.center-form{
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+    
+}
+
+.form-control{
+    float: left;
+    margin-bottom: 20px;
+}
+
+button[type="submit"]{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color: #33ACFF;
+    color:#fafafa;
+}
+
+
 
 
 /*--------------------------------------------------Footer------------*/
