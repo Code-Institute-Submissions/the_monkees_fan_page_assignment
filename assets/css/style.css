@@ -179,6 +179,30 @@ body.fixed .header-fixed .header-limiter nav {
     margin-bottom: 30px;
 }
 
+/*--------------------------------------------------------About Us--------*/
+
+.img-responsive{
+	width: 100%;
+    height: auto;
+    margin-top:10px;
+}
+
+.section-heading{
+	font-family: "monoton", sans-serif;
+}
+
+.about-us-heading{
+	font-family: "monoton", sans-serif;
+}
+
+
+.about-us-icon{
+    font-size: 26px;
+    color: C500FF;
+    margin-top: "15px";
+}
+
+
 
 /*---------------------------------------------------------Footer------------*/
 
