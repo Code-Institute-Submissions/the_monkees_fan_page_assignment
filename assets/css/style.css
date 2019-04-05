@@ -272,10 +272,21 @@ body.fixed .header-fixed .header-limiter nav {
     }
 }
 
+@media only screen and (max-width: 400px) {
+   ul{   
+        display: inline;
+        max-width: 100%;
+        height: auto;
+        width: auto; 
+      
+   }
+}
+
+
 .image-items{
     padding-top: 50px;
     padding-bottom: 20px;
-    margin-left: 40px;
+    margin-left: 20px;
 }
 
 .audio{
