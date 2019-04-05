@@ -4,7 +4,7 @@
 
 <p>The project had personal interest to me as I am a musician myself. I have long been fascinated by the resurgence of decade-old bands through the power of the internet. We’ve seen it with bands such as The Rolling Stones and The Beatles who have enjoyed a definite boost in popularity and new lease on life as young fans have an easier time discovering their music and history through online resources. To me, The Monkees’ are another great example of a band whose style and appeal are just ripe for the tastes of young music and fashion lovers alike.</p>
 
-<h2>Credits</h2?
+<h2>Credits</h2>
 <b>Content</b>
 •	<p>All content in the "About Us” and Monkees’ Timeline sections of this project were written by me with facts referenced and researched through The Monkees’ [Wikipedia page]( https://en.wikipedia.org/wiki/The_Monkees).</p>
 
