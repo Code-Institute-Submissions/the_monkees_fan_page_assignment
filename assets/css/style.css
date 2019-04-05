@@ -306,7 +306,7 @@ body.fixed .header-fixed .header-limiter nav {
     padding-top: 50px;
     padding-bottom: 20px;
     margin-left: 20px;
-}
+} 
 
 .audio{
     padding-top: 10px;
@@ -372,7 +372,6 @@ table {
     margin-bottom: 30px;
     margin-left: 20px;
     margin-right: 20px;
-    position: center
     
 }
 

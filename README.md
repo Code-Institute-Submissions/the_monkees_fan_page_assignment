@@ -1,24 +1,7 @@
+<h2>The Monkees Fan Page</h2>
+<hr>
+<b>Milestone Project One: User-Centric Frontend Development - Code Institute.</b>
+<br>
+<p>This is a fan page designed for both lovers and newcomers of the 1960s surf-rock band, The Monkees. Over four webpages, the website highlights the band’s retro appeal and stylistic relevance in the digital age. It briefly explores their history; their online presence through both social media and their ability to reach a new audience through platforms such as iTunes and Youtube, as well as their availability to perform on both their current European tour and special events. 
+The project had personal interest to me as I am a musician myself. I have long been fascinated by the resurgence of decade-old bands through the power of the internet. We’ve seen it with bands such as The Rolling Stones and The Beatles who have enjoyed a definite boost in popularity and new lease on life as young fans have an easier time discovering their music and history through online resources. To me, The Monkees’ are another great example of a band whose style and appeal are just ripe for the tastes of young music and fashion lovers alike.</p>
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
-
-Credits:
-
-https://startbootstrap.com/snippets/navbar-logo/ (navbar HTML + CSS)
-https://www.google.com/search?rlz=1C5CHFA_enIE653IE653&ei=rVamXNC1FvGW1fAP472k-As&q=make+youtube+video+responsive&oq=make+youtube+video+resp&gs_l=psy-ab.1.0.0l3j0i22i30.12022.15244..15988...0.0..0.204.920.10j1j1......0....1..gws-wiz.......0i71j33i22i29i30.u-OOnMM0goM#kpvalbx=1
-(Responsive Youtube video)
