@@ -297,10 +297,10 @@ body.fixed .header-fixed .header-limiter nav {
         max-width: 100%;
         height: auto;
         width: auto; 
-      
+    
+        
    }
 }
-
 
 .image-items{
     padding-top: 50px;
@@ -387,10 +387,12 @@ tr:nth-child(even) {
 
 
 
+
+
 /*----------------------------------------------Contact Form----------*/
 
 .contact-heading{
-    font-family: "" ,sans-serif;
+    font-family: "Six Caps" ,sans-serif;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 10px;
