@@ -272,16 +272,6 @@ body.fixed .header-fixed .header-limiter nav {
     }
 }
 
-@media only screen and (min-width: 300px) {
-    ul{   
-        display: inline;
-        max-width: 50%;
-        height: auto;
-        width: auto; 
-      
-   }
-}
-
 @media only screen and (max-width: 400px) {
    ul{   
         display: inline;
