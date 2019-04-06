@@ -7,7 +7,10 @@ This is a fan page designed for both lovers and newcomers of the 1960s surf-rock
 
 The project had personal interest to me as I am a musician myself. I have long been fascinated by the resurgence of decade-old bands through the power of the internet. We’ve seen it with bands such as The Rolling Stones and The Beatles who have enjoyed a definite boost in popularity and new lease on life as young fans have an easier time discovering their music and history through online resources. To me, The Monkees’ are another great example of a band whose style and appeal are just ripe for the tastes of young music and fashion lovers alike.
 
+Demo
+===
 
+A live demo of this project can be found [here](https://martincurran28.github.io/the_monkees_fan_page_assignment/).
 
 
 UX
@@ -92,7 +95,7 @@ The user can be redirected to any of the relevant Monkees media sites by clickin
 
 The user will notice that the music page has a very similar layout to Home in that it uses a side panel and main body which collapses underneath as the screen size decreases to fit mobile screens. Users can listen to the audio from the MP3 files by clicking the play symbol and the duration of their song will be noted by both a running timeline and a seconds counter. Volume is also adjustable on desktop, but only the option to mute the sound is available on mobile. The option to download any of the four Mp3 tracks is available to the user on all devices. 
 
-The user can view the Tour Table on any device as it will shrink to size as the screen size decreases. Unfortunately, the option to download a PDF file of the setlist is not available on mobile devices. download option is availablle on desktop.
+The user can view the Tour Table on any device as it will shrink to size as the screen size decreases. Mobile users will be able to download the Setlist PDF just like desktop users.
 
 For complete transparency about this project, I wish to inform you that the contact form is static and a user can input information. It is not wired to store the accepted information or have the relevant email sent the admin of the site to inform them of the contact form. For now, as the relevant knowledge to wire it up is not part of the User-Centric Frontend module, it remains a static form for the sake of aesthetics on the project. 
 It is, however, responsive to the user’s actions. If the user fails to input information into every relevant box and then clicks the send button, a warning sign will pop up under the relevant boxes which need to be completed. The contact form itself is also responsive to changing screen sizes.
@@ -100,7 +103,7 @@ It is, however, responsive to the user’s actions. If the user fails to input i
 Each page of the site was tested across three different browsers (Google Chrome, Safari, Firefox) on multiple mobile devices (iPhone 6, 7, 8, iPad, iPad Pro, Pixel, Pixel 2, Samsung Galaxy) to ensure compatibility and responsiveness. During the testing phase, I realized that the music page was not responding appropriately to what I expected. The Youtube and MP3 sections were pushing the margin-right further out, leaving the page with too much space to the right of the screen. Media Queries for screen size were utilized as this problem was concerning for the iPad and mobile screens. I used `@media only screen and (max-width: 400px)`for mobiles and `@media only screen and (min-width: 768px) and (max-width: 990px)` for the iPad to solve this problem.
 
 Credits
-===
+---
 
 **Content**
 
@@ -114,7 +117,7 @@ Credits
 
 **Acknowledgements**
 
-
+* The tutorial which allowed me to deploy my project to GitHub Pages can be found [here](https://www.youtube.com/watch?v=TUJekd0reVQ).
 * My responsive Youtube video was made possible through [this video](https://www.youtube.com/watch?v=9YffrCViTVk).
 * Further credit should go to W3School for showing me how to correctly implement the MP3s found in the “tour.html” page. Click [here]( https://www.w3schools.com/html/html5_audio.asp) for the audio tutorial.</p>
 * The full navbar I used was sourced from StartBootstrap and you can find the full HTML and CSS code [Here](https://startbootstrap.com/snippets/navbar-logo).
