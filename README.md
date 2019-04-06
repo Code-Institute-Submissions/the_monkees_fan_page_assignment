@@ -25,14 +25,24 @@ For information regarding tour dates and ticket availability for users who would
 
 Users who wish to contact the band regarding an event or query can do so by visiting the contact page. The contact page will ask for a name, email and a brief description from the user form provided. 
 
-You can find mockups of the project in my Githubin the folder named **mockups**.
+You can find mockups of the project below and also in my Github under the **mockups** folder.
 
-**Index.html**
+**index.html**
 
 <img src="mockups/Index_Mockup.jpeg" alt="drawing" width="200"/>
-![](mockups/Music_Mockup.jpeg)
-![](mockups/Tour_Mockup.jpeg)
-![](mockups/Contact_Mockup.jpeg)
+
+**music.html**
+
+<img src="mockups/Music_Mockup.jpeg" alt="drawing" width="200"/>
+
+**tour.html**
+
+<img src="mockups/Tour_Mockup.jpeg" alt="drawing" width="200"/>
+
+**contact.html**
+
+<img src="mockups/Contact_Mockup.jpeg" alt="drawing" width="200"/>
+
 
 Features
 ===
