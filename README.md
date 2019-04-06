@@ -3,7 +3,7 @@ The Monkees Fan Page
 
 **Milestone Project One: User-Centric Frontend Development - Code Institute.**
 
-This is a fan page designed for both lovers and newcomers of the 1960s surf-rock band, The Monkees. Over four webpages, the website highlights the band’s retro appeal and stylistic relevance in the digital age. It briefly explores their history; their online presence through both social media and their ability to reach a new audience through platforms such as iTunes and Youtube, as well as their availability to perform on both their current European tour and special events.
+This is a fan page designed for both lovers and newcomers of the 1960s surf-rock band, The Monkees. Over four webpages, the website highlights the band’s retro appeal and stylistic relevance in the digital age. It briefly explores their history; their online presence through both social media and their ability to reach a new audience through platforms such as iTunes and Youtube, as well as their availability to perform on both their current tour and special events.
 
 The project had personal interest to me as I am a musician myself. I have long been fascinated by the resurgence of decade-old bands through the power of the internet. We’ve seen it with bands such as The Rolling Stones and The Beatles who have enjoyed a definite boost in popularity and new lease on life as young fans have an easier time discovering their music and history through online resources. To me, The Monkees’ are another great example of a band whose style and appeal are just ripe for the tastes of young music and fashion lovers alike.
 
@@ -21,11 +21,11 @@ For any user interested in discovering, purchasing or simply listening to the ba
 
 Users who want to sample their music before visiting iTunes can also enjoy the MP3 tab at the bottom of the page which provides four of their best known tracks to enjoy at leisure while scrolling.
 
-For information regarding tour dates and ticket availability for users who would like to see the band live, there’s a tour table which easily and comprehensively illustrates selected dates, venues and ticket status for each concert for their upcoming tour. As well as this, users interested in what to songs the band will be playing live can download the PDF file of their setlist before making any decision about purchase.
+For information regarding tour dates and ticket availability for users who would like to see the band live, there’s a tour table which easily and comprehensively illustrates selected dates, venues and ticket status for each concert for their upcoming tour. As well as this, any users interested in which songs the band will be playing live can download the PDF file of their setlist before making any decision about purchase.
 
 Users who wish to contact the band regarding an event or query can do so by visiting the contact page. The contact page will ask for a name, email and a brief description from the user form provided. 
 
-You can find mockups of the project below and also in my Github under the **mockups** folder.
+You can find mockups of how this project was planned to look below and also in my Github under the **mockups** folder.
 
 **index.html**
 
@@ -47,29 +47,26 @@ You can find mockups of the project below and also in my Github under the **mock
 Features
 ===
 
-In this section, I will describe the user available feature which this project has to offer.
+In this section, I will describe the user available features which this project has to offer.
 
 **Existing Features**
 
-In this section, I will describe the user available feature which this project has to offer.
-
-* Navbar – A clickable logo to the let of the page and four separate buttons which allows the user to navigate across all four available webpages.
-* Band Timeline - allows users to read and understand a brief history of the band.
-* “Who Are The Monkees” section – Provides the user with a brief description of the band and the purpose of the website. 
-* iTunes Sidebar – A visual selection of albums available from the band, each with a button with a link to iTunes where they can purchase them. Also includes a clickable image of the Apple logo.
-* Youtube Showcase – An embedded Youtube video along with a clickable Youtube icon which links the user to their Youtube page.
-* MP3 Player Section – Another clickable Apple logo followed by a row of four MP3s of the band’s music, the audio of which is playable for the user.•	Downloadable Setlist – A PDF file of the band’s setlist that’s linked to a piece of text which is downloadable for any user. 
-* Tour Table – A three column tour table presenting date, venue and ticket availability to the user along with a clickable button which takes the user to the Ticketmaster website.
-* Contact Form – A form for getting in touch with the band and submit button.
+* **Navbar** – A clickable logo to the left of the page and four separate buttons which allows the user to navigate across all four available webpages.
+* **Band Timeline** - Allows users to read and understand a brief history of the band.
+* **“Who Are The Monkees” section** – Provides the user with a brief description of the band and the purpose of the website. 
+* **iTunes Sidebar** – A visual selection of albums available from the band, each with a link to iTunes where they can purchase them. Also includes a clickable image of the Apple logo.
+* **Youtube Showcase** – An embedded Youtube video along with a clickable Youtube icon which links the user to their Youtube page.
+* **MP3 Player Section** – Another clickable Apple logo followed by a row of four MP3s of the band’s music, the audio of which is playable for the user.
+* **Downloadable Setlist** – A PDF file of the band’s setlist that’s linked to a piece of text which is downloadable for any user. 
+* **Tour Table** – A three column tour table presenting date, venue and ticket availability to the user along with a clickable button which takes the user to the Ticketmaster website.
+* **Contact Form** – A form for getting in touch with the band and submit button.
   (Please note, for full tranperency, the contact form is not yet wired up to email information. It is a static form used for aesthetic purposes on the project.)
-* Footer – Provides information on the band, a register trademark of the band name, and a row of social media links for users to find the band elsewhere.
-
-**Features**
+* **Footer** – Provides information on the band, a register trademark of the band name, and a row of social media links for users to find the band elsewhere.
 
 Technologies Used
 ---
 
-This following list contains all technologies used in the creation of this project.
+The following list contains all technologies used in the creation of this project.
 
 * HTML
   * The project uses HTML as the mark-up language. 
@@ -87,19 +84,20 @@ This following list contains all technologies used in the creation of this proje
 Testing
 ---
 
-The user stories described in the UX section achieve the expected results of making the site a resource for fans and people unfamiliar with their work.  
+The user stories described in the UX section achieve the expected results of making the site a good resource for fans and people unfamiliar with their work to visit.  
 
 On desktop, the user will see The Monkees Timeline functions as a side panel next to the left of the screen with a group photo of the band on the right and a text-based column of four below that photo. On tablet and mobile devices, the user’s page responds nicely, with the timeline becoming centred on the page with the band photo and four columns sitting underneath as the user scrolls down.
 The user can travel between pages with ease using the navigation buttons in the navbar. The logo also poses as a conventional Home button. 
 The user can be redirected to any of the relevant Monkees media sites by clicking the icons in the footer.
 
 The user will notice that the music page has a very similar layout to Home in that it uses a side panel and main body which collapses underneath as the screen size decreases to fit mobile screens. Users can listen to the audio from the MP3 files by clicking the play symbol and the duration of their song will be noted by both a running timeline and a seconds counter. Volume is also adjustable on desktop, but only the option to mute the sound is available on mobile. The option to download any of the four Mp3 tracks is available to the user on all devices. 
-The user can view the Tour table on any device as it shrinks as the size decreases. Unfortunately, the option to download a PDF file of the setlist is not available on mobile devices. 
+
+The user can view the Tour Table on any device as it will shrink to size as the screen size decreases. Unfortunately, the option to download a PDF file of the setlist is not available on mobile devices. download option is availablle on desktop.
 
 For complete transparency about this project, I wish to inform you that the contact form is static and a user can input information. It is not wired to store the accepted information or have the relevant email sent the admin of the site to inform them of the contact form. For now, as the relevant knowledge to wire it up is not part of the User-Centric Frontend module, it remains a static form for the sake of aesthetics on the project. 
 It is, however, responsive to the user’s actions. If the user fails to input information into every relevant box and then clicks the send button, a warning sign will pop up under the relevant boxes which need to be completed. The contact form itself is also responsive to changing screen sizes.
 
-Each page of the site was tested across three different browsers (Google Chrome, Safari, Firefox) on multiple mobile devices (iPhone 6, 7, 8, iPad, iPad Pro, Pixel, Pixel 2, Samsung Galaxy) to ensure compatibility and responsiveness. During the testing phase, I realized that the music page was not responding appropriately to what I ex-pected. The Youtube and MP3 sections were pushing the margin-right further out, leaving the page with too much space to the right of the screen. Media Queries for screen size were utilized as this problem was concerning for the iPad and mobile screens. I used `@media only screen and (max-width: 400px)`for mobiles and @media only screen and `(min-width: 768px) and (max-width: 990px)` for the iPad to solve this problem.
+Each page of the site was tested across three different browsers (Google Chrome, Safari, Firefox) on multiple mobile devices (iPhone 6, 7, 8, iPad, iPad Pro, Pixel, Pixel 2, Samsung Galaxy) to ensure compatibility and responsiveness. During the testing phase, I realized that the music page was not responding appropriately to what I expected. The Youtube and MP3 sections were pushing the margin-right further out, leaving the page with too much space to the right of the screen. Media Queries for screen size were utilized as this problem was concerning for the iPad and mobile screens. I used `@media only screen and (max-width: 400px)`for mobiles and `@media only screen and (min-width: 768px) and (max-width: 990px)` for the iPad to solve this problem.
 
 Credits
 ===
