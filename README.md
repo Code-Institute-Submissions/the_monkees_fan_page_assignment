@@ -27,9 +27,6 @@ Users who wish to contact the band regarding an event or query can do so by visi
 
 
 
-
-
-
 Features
 ===
 
@@ -55,17 +52,17 @@ Technologies Used
 This following list contains all technologies used in the creation of this project.
 
 * HTML
-o The project uses HTML as the mark-up language. A
+  * The project uses HTML as the mark-up language. 
 * CSS
-o The project uses CSS to style the HTML elements.
+  * The project uses CSS to style the HTML elements.
 * Bootstrap
-o Used to add further style and navigation to the project. Link provided [here]( https://getbootstrap.com/)
+  * Used to add further style and navigation to the project. Link provided [here]( https://getbootstrap.com/).
 * Font Awesome
-o Used to add visual icons are certain points in the project. Link provided [here]( https://fontawesome.com/)
+  * Used to add visual icons are certain points in the project. Link provided [here]( https://fontawesome.com/).
 * Google Fonts
-o Used to add specific font families and weights to HTML text. Link provided [here]( https://fonts.google.com/)
+  * Used to add specific font families and weights to HTML text. Link provided [here]( https://fonts.google.com/).
 * Cloudflare (Hoover.CSS)
-o Used to add a hoover effect to specific elements. Link provided [here]( https://www.cloudflare.com/lp/overview-x/?_bt=327494540339&_bk=cloudflare&_bm=p&_bn=g&_bg=65399306523&_displaycampaign=&gclid=Cj0KCQjwnKHlBRDLARIsAMtMHDGr_dQW0nL-HRrbbA6M3Z5gadRS-CUSg2Y_AwkYJ5Q7GbuD3COjE0UaAocdEALw_wcB )
+  * Used to add a hoover effect to specific elements. Link provided [here]( https://www.cloudflare.com/lp/overview-x/?_bt=327494540339&_bk=cloudflare&_bm=p&_bn=g&_bg=65399306523&_displaycampaign=&gclid=Cj0KCQjwnKHlBRDLARIsAMtMHDGr_dQW0nL-HRrbbA6M3Z5gadRS-CUSg2Y_AwkYJ5Q7GbuD3COjE0UaAocdEALw_wcB ).
 
 
 Credits
