@@ -1,18 +1,26 @@
-<h2>The Monkees Fan Page</h2>
-<b>Milestone Project One: User-Centric Frontend Development - Code Institute.</b>
-<p>This is a fan page designed for both lovers and newcomers of the 1960s surf-rock band, The Monkees. Over four webpages, the website highlights the band’s retro appeal and stylistic relevance in the digital age. It briefly explores their history; their online presence through both social media and their ability to reach a new audience through platforms such as iTunes and Youtube, as well as their availability to perform on both their current European tour and special events.</p>
+The Monkees Fan Page
+===
+Milestone Project One: User-Centric Frontend Development - Code Institute.
+---
+This is a fan page designed for both lovers and newcomers of the 1960s surf-rock band, The Monkees. Over four webpages, the website highlights the band’s retro appeal and stylistic relevance in the digital age. It briefly explores their history; their online presence through both social media and their ability to reach a new audience through platforms such as iTunes and Youtube, as well as their availability to perform on both their current European tour and special events.
 
-<p>The project had personal interest to me as I am a musician myself. I have long been fascinated by the resurgence of decade-old bands through the power of the internet. We’ve seen it with bands such as The Rolling Stones and The Beatles who have enjoyed a definite boost in popularity and new lease on life as young fans have an easier time discovering their music and history through online resources. To me, The Monkees’ are another great example of a band whose style and appeal are just ripe for the tastes of young music and fashion lovers alike.</p>
+The project had personal interest to me as I am a musician myself. I have long been fascinated by the resurgence of decade-old bands through the power of the internet. We’ve seen it with bands such as The Rolling Stones and The Beatles who have enjoyed a definite boost in popularity and new lease on life as young fans have an easier time discovering their music and history through online resources. To me, The Monkees’ are another great example of a band whose style and appeal are just ripe for the tastes of young music and fashion lovers alike.
 
-<h2>Credits</h2>
-<b>Content</b>
-•	<p>All content in the "About Us” and Monkees’ Timeline sections of this project were written by me with facts referenced and researched through The Monkees’ [Wikipedia page]( https://en.wikipedia.org/wiki/The_Monkees).</p>
+Credits
+===
 
-<b>Media</b>
-•	<p>The photos, images and Mp3s used and displayed on this site were obtained from [this]( https://github.com/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets) Github repository and Google Images.</p>
-•	<p>The video for “Daydream Believer” was embedded courtesy of Youtube and a link to the official video url can be found [here]( https://www.youtube.com/watch?v=xvqeSJlgaNk).</p>  
+Content
+---
+* All content in the "About Us” and Monkees’ Timeline sections of this project were written by me with facts referenced and researched through The Monkees’ [Wikipedia] page( https://en.wikipedia.org/wiki/The_Monkees)
 
-##Acknowledgements
+Media
+---
+
+* The photos, images and Mp3s used and displayed on this site were obtained from [this]( https://github.com/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets) Github repository and Google Images.
+* The video for “Daydream Believer” was embedded courtesy of Youtube and a link to the official video url can be found [here]( https://www.youtube.com/watch?v=xvqeSJlgaNk).
+
+Acknowledgements
+---
 
 * My responsive Youtube video was made possible through [this video](https://www.youtube.com/watch?v=9YffrCViTVk).
 * Further credit should go to W3School for showing me how to correctly implement the MP3s found in the “tour.html” page. Click [here]( https://www.w3schools.com/html/html5_audio.asp) for the audio tutorial.</p>
