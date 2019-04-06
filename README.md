@@ -7,8 +7,10 @@ This is a fan page designed for both lovers and newcomers of the 1960s surf-rock
 
 The project had personal interest to me as I am a musician myself. I have long been fascinated by the resurgence of decade-old bands through the power of the internet. We’ve seen it with bands such as The Rolling Stones and The Beatles who have enjoyed a definite boost in popularity and new lease on life as young fans have an easier time discovering their music and history through online resources. To me, The Monkees’ are another great example of a band whose style and appeal are just ripe for the tastes of young music and fashion lovers alike.
 
-Deployment
+Demo
 ===
+
+A live demo of this project can be found [here](https://martincurran28.github.io/the_monkees_fan_page_assignment/).
 
 UX
 ===
@@ -114,7 +116,7 @@ Credits
 
 **Acknowledgements**
 
-
+* A very useful tutorial on how to deploy the project using GitHub Pages.Click [here](https://www.youtube.com/watch?v=TUJekd0reVQ) for the video.  
 * My responsive Youtube video was made possible through [this video](https://www.youtube.com/watch?v=9YffrCViTVk).
 * Further credit should go to W3School for showing me how to correctly implement the MP3s found in the “tour.html” page. Click [here]( https://www.w3schools.com/html/html5_audio.asp) for the audio tutorial.</p>
 * The full navbar I used was sourced from StartBootstrap and you can find the full HTML and CSS code [Here](https://startbootstrap.com/snippets/navbar-logo).
