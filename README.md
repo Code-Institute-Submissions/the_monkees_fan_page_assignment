@@ -7,12 +7,51 @@ This is a fan page designed for both lovers and newcomers of the 1960s surf-rock
 
 The project had personal interest to me as I am a musician myself. I have long been fascinated by the resurgence of decade-old bands through the power of the internet. We’ve seen it with bands such as The Rolling Stones and The Beatles who have enjoyed a definite boost in popularity and new lease on life as young fans have an easier time discovering their music and history through online resources. To me, The Monkees’ are another great example of a band whose style and appeal are just ripe for the tastes of young music and fashion lovers alike.
 
+
+
+Features
+===
+
+In this section, I will describe the user available feature which this project has to offer.
+
+**Existing Features**
+
+In this section, I will describe the user available feature which this project has to offer.
+
+* Navbar – A clickable logo to the let of the page and four separate buttons which allows the user to navigate across all four available webpages.
+* Band Timeline - allows users to read and understand a brief history of the band.
+* “Who Are The Monkees” section – Provides the user with a brief description of the band and the purpose of the website. 
+* iTunes Sidebar – A visual selection of albums available from the band, each with a button with a link to iTunes where they can purchase them. Also includes a clickable image of the Apple logo.
+* Youtube Showcase – An embedded Youtube video along with a clickable Youtube icon which links the user to their Youtube page.
+* MP3 Player Section – Another clickable Apple logo followed by a row of four MP3s of the band’s music, the audio of which is playable for the user.•	Downloadable Setlist – A PDF file of the band’s setlist that’s linked to a piece of text which is downloadable for any user. 
+* Tour Table – A three column tour table presenting date, venue and ticket availability to the user along with a clickable button which takes the user to the Ticketmaster website.
+* Contact Form – A form for getting in touch with the band and submit button.
+* Footer – Provides information on the band, a register trademark of the band name, and a row of social media links for users to find the band elsewhere.
+
+**Technologies Used**
+
+This following list contains all technologies used in the creation of this project.
+
+* HTML
+o The project uses HTML as the mark-up language. A
+* CSS
+o The project uses CSS to style the HTML elements.
+* Bootstrap
+o Used to add further style and navigation to the project. Link provided [here]( https://getbootstrap.com/)
+* Font Awesome
+o Used to add visual icons are certain points in the project. Link provided [here]( https://fontawesome.com/)
+* Google Fonts
+o Used to add specific font families and weights to HTML text. Link provided [here]( https://fonts.google.com/)
+* Cloudflare (Hoover.CSS)
+o Used to add a hoover effect to specific elements. Link provided [here]( https://www.cloudflare.com/lp/overview-x/?_bt=327494540339&_bk=cloudflare&_bm=p&_bn=g&_bg=65399306523&_displaycampaign=&gclid=Cj0KCQjwnKHlBRDLARIsAMtMHDGr_dQW0nL-HRrbbA6M3Z5gadRS-CUSg2Y_AwkYJ5Q7GbuD3COjE0UaAocdEALw_wcB )
+
+
 Credits
 ===
 
 Content
 ---
-* All content in the "About Us” and Monkees’ Timeline sections of this project were written by me with facts referenced and researched through The Monkees’ [Wikipedia]( https://en.wikipedia.org/wiki/The_Monkees)
+* All content in the "About Us” and Monkees’ Timeline sections of this project were written by me with facts referenced and researched through The Monkees’ [Wikipedia]( https://en.wikipedia.org/wiki/The_Monkees).
 
 Media
 ---
