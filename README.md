@@ -25,8 +25,9 @@ For information regarding tour dates and ticket availability for users who would
 
 Users who wish to contact the band regarding an event or query can do so by visiting the contact page. The contact page will ask for a name, email and a brief description from the user form provided. 
 
-I've also included some of my mockups which I created while planning this project for your consideration.
-![](assets/mockups/Index_Mockup.jpeg)
+You can find mockups of the project in my Github through the following path:
+
+![](mockups/Index_Mockup.jpeg)
 
 
 Features
