@@ -101,6 +101,19 @@ It is, however, responsive to the user’s actions. If the user fails to input i
 
 Each page of the site was tested across three different browsers (Google Chrome, Safari, Firefox) on multiple mobile devices (iPhone 6, 7, 8, iPad, iPad Pro, Pixel, Pixel 2, Samsung Galaxy) to ensure compatibility and responsiveness. During the testing phase, I realized that the music page was not responding appropriately to what I expected. The Youtube and MP3 sections were pushing the margin-right further out, leaving the page with too much space to the right of the screen. Media Queries for screen size were utilized as this problem was concerning for the iPad and mobile screens. I used `@media only screen and (max-width: 400px)`for mobiles and `@media only screen and (min-width: 768px) and (max-width: 990px)` for the iPad to solve this problem.
 
+
+Deployment
+===
+
+This site is hosted using GitHub pages, deployed directly from a separate git branch called “gh-pages” as opposed to the master branch. Through the command line, I created the new branch by using this command: `git checkout –b gh-pages`. I then push my branch using `git push origin gh-push`. After inputting my GitHub credentials, I was given the URL to the deployed page where my project was hosted.
+
+I have never deployed a project to GitHub Pages so I opted to create the second branch out of fear and safety for my work. I will have to change branch to update the website using `git checkout [branch]`, but this is only a minor inconvenience.
+
+To run this code locally, you may clone this repository from the **Clone or Download** button at the top of the page and writing git clone followed by that URL you have cloned into an editor. To cut ties with Github use git remote rm origin in your terminal.
+
+
+
+
 Credits
 ===
 
