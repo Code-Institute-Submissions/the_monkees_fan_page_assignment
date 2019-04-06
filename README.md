@@ -9,6 +9,27 @@ The project had personal interest to me as I am a musician myself. I have long b
 
 
 
+
+UX
+===
+
+My ultimate goal was to create a Monkees fan-page which would satisfy both an existing fan-base while also reaching a new audience and generation unfamiliar with their work through web design and what it can offer the user in terms of experience and the band in terms of marketing and reach.
+
+For the user who wants to learn more about the band’s history, the home page provides a brief timeline that condenses their story into minute bites and even travels vertically as a user scroll down the page. This is both an informative and efficient way to introduce the band’s story in a way that won’t overload the user with information. As well as this, the home page provides users with information for contacting the band and how to follow them through social media.
+
+For any user interested in discovering, purchasing or simply listening to the band’s music, there’s the music page which displays a selection of albums available to purchase through iTunes with links to the relevant iTunes pages. For videos and band footage, there’s a link to their official Youtube channel along with an example of such a video users can expect from the channel.
+
+Users who want to sample their music before visiting iTunes can also enjoy the MP3 tab at the bottom of the page which provides four of their best known tracks to enjoy at leisure while scrolling.
+
+For information regarding tour dates and ticket availability for users who would like to see the band live, there’s a tour table which easily and comprehensively illustrates selected dates, venues and ticket status for each concert for their upcoming tour. As well as this, users interested in what to songs the band will be playing live can download the PDF file of their setlist before making any decision about purchase.
+
+Users who wish to contact the band regarding an event or query can do so by visiting the contact page. The contact page will ask for a name, email and a brief description from the user form provided. 
+
+
+
+
+
+
 Features
 ===
 
@@ -28,7 +49,8 @@ In this section, I will describe the user available feature which this project h
 * Contact Form – A form for getting in touch with the band and submit button.
 * Footer – Provides information on the band, a register trademark of the band name, and a row of social media links for users to find the band elsewhere.
 
-**Technologies Used**
+Technologies Used
+---
 
 This following list contains all technologies used in the creation of this project.
 
@@ -49,18 +71,18 @@ o Used to add a hoover effect to specific elements. Link provided [here]( https:
 Credits
 ===
 
-Content
----
+**Content**
+
 * All content in the "About Us” and Monkees’ Timeline sections of this project were written by me with facts referenced and researched through The Monkees’ [Wikipedia]( https://en.wikipedia.org/wiki/The_Monkees).
 
-Media
----
+**Media**
+
 
 * The photos, images and Mp3s used and displayed on this site were obtained from [this]( https://github.com/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets) Github repository and Google Images.
 * The video for “Daydream Believer” was embedded courtesy of Youtube and a link to the official video url can be found [here]( https://www.youtube.com/watch?v=xvqeSJlgaNk).
 
-Acknowledgements
----
+**Acknowledgements**
+
 
 * My responsive Youtube video was made possible through [this video](https://www.youtube.com/watch?v=9YffrCViTVk).
 * Further credit should go to W3School for showing me how to correctly implement the MP3s found in the “tour.html” page. Click [here]( https://www.w3schools.com/html/html5_audio.asp) for the audio tutorial.</p>
