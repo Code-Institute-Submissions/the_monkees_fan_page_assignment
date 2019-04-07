@@ -67,7 +67,7 @@ In this section, I will describe the user available features which this project 
 
 **Features Left to Implement**
 
-* I would like to wire up the Contact Form and make the functional and not just static.
+* I would like to wire up the Contact Form and make it functional and not just static.
 
 
 Technologies Used
