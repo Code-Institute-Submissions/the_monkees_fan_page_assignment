@@ -65,6 +65,11 @@ In this section, I will describe the user available features which this project 
   (Please note, for full tranperency, the contact form is not yet wired up to email information. It is a static form used for aesthetic purposes on the project.)
 * **Footer** – Provides information on the band, a register trademark of the band name, and a row of social media links for users to find the band elsewhere.
 
+**Features Left to Implement**
+
+* I would like to wire up the Contact Form and make the functional and not just static.
+
+
 Technologies Used
 ---
 
