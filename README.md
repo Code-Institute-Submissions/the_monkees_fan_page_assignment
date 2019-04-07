@@ -70,17 +70,17 @@ Technologies Used
 
 The following list contains all technologies used in the creation of this project.
 
-* HTML
+* **HTML**
   * The project uses HTML as the mark-up language. 
-* CSS
+* **CSS**
   * The project uses CSS to style the HTML elements.
-* Bootstrap
+* **Bootstrap**
   * Used to add further style and navigation to the project. Link provided [here]( https://getbootstrap.com/).
-* Font Awesome
+* **Font Awesome**
   * Used to add visual icons are certain points in the project. Link provided [here]( https://fontawesome.com/).
-* Google Fonts
+* **Google Fonts**
   * Used to add specific font families and weights to HTML text. Link provided [here]( https://fonts.google.com/).
-* Cloudflare (Hoover.CSS)
+* **Cloudflare** (Hoover.CSS)
   * Used to add a hoover effect to specific elements. Link provided [here]( https://www.cloudflare.com/lp/overview-x/?_bt=327494540339&_bk=cloudflare&_bm=p&_bn=g&_bg=65399306523&_displaycampaign=&gclid=Cj0KCQjwnKHlBRDLARIsAMtMHDGr_dQW0nL-HRrbbA6M3Z5gadRS-CUSg2Y_AwkYJ5Q7GbuD3COjE0UaAocdEALw_wcB ).
 
 Testing
