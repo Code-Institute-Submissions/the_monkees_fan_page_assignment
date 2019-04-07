@@ -8,12 +8,12 @@ This is a fan page designed for both lovers and newcomers of the 1960s surf-rock
 The project had personal interest to me as I am a musician myself. I have long been fascinated by the resurgence of decade-old bands through the power of the internet. We’ve seen it with bands such as The Rolling Stones and The Beatles who have enjoyed a definite boost in popularity and new lease on life as young fans have an easier time discovering their music and history through online resources. To me, The Monkees’ are another great example of a band whose style and appeal are just ripe for the tastes of young music and fashion lovers alike.
 
 Demo
-===
+---
 
 A live demo of this project can be found [here](https://martincurran28.github.io/the_monkees_fan_page_assignment/).
 
 UX
-===
+---
 
 My ultimate goal was to create a Monkees fan-page which would inform and educate both an existing fan-base and a new audience and generation unfamiliar with their work of what they have done and what they are presently doing through web design. I wanted to use this website as an opportunity to offer the user a great resource for the band and the band itself a good marketing tool and place to showcase their work to reach fans and curious users.
 
@@ -47,7 +47,7 @@ You can find mockups of how this project was planned to look below and also in m
 
 
 Features
-===
+---
 
 In this section, I will describe the user available features which this project has to offer.
 
@@ -103,7 +103,7 @@ Each page of the site was tested across three different browsers (Google Chrome,
 
 
 Deployment
-===
+---
 
 This site is hosted using GitHub pages, deployed directly from a separate git branch called “gh-pages” as opposed to the master branch. Through the command line, I created the new branch by using this command: `git checkout –b gh-pages`. I then push my branch using `git push origin gh-push`. After inputting my GitHub credentials, I was given the URL to the deployed page where my project was hosted.
 
@@ -112,10 +112,8 @@ I have never deployed a project to GitHub Pages so I opted to create the second 
 To run this code locally, you may clone this repository from the **Clone or Download** button at the top of the page and writing git clone followed by that URL you have cloned into an editor. To cut ties with Github use `git remote rm origin` in your terminal.
 
 
-
-
 Credits
-===
+---
 
 **Content**
 
