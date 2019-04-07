@@ -109,7 +109,7 @@ This site is hosted using GitHub pages, deployed directly from a separate git br
 
 I have never deployed a project to GitHub Pages so I opted to create the second branch out of fear and safety for my work. I will have to change branch to update the website using `git checkout [branch]`, but this is only a minor inconvenience.
 
-To run this code locally, you may clone this repository from the **Clone or Download** button at the top of the page and writing git clone followed by that URL you have cloned into an editor. To cut ties with Github use git remote rm origin in your terminal.
+To run this code locally, you may clone this repository from the **Clone or Download** button at the top of the page and writing git clone followed by that URL you have cloned into an editor. To cut ties with Github use `git remote rm origin` in your terminal.
 
 
 
